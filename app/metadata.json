@@ -1,0 +1,6 @@
+{
+  "name": "PW Learn",
+  "description": "Physics Wallah style learning platform featuring live/recorded course batches, video player with notes and live chat, JEE/NEET DPP quizzes with solution breakdown, 24x7 AI doubt solver, and All India Mock Test Series.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
